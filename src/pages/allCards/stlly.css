@@ -1,0 +1,27 @@
+.h1-search{
+    display: flex;
+    justify-content: center;   
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.content-cards-search {
+    display: flex;
+    justify-content: center;
+}
+
+.input-content {
+    display: flex;
+    width: 500px;
+    padding:5px;    
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 9px;
+    text-align: center;
+}
+
+.image-card{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}

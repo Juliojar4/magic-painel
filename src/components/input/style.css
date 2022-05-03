@@ -1,0 +1,10 @@
+
+.input-content {
+    display: flex;
+    width: 500px;
+    padding:5px;    
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 9px;
+    text-align: center;
+}
